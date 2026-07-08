@@ -1,0 +1,19 @@
+{
+  "category": "Legal & Safety",
+  "version": "1.0.0",
+  "lastUpdated": "2026-07-08",
+  "items": [
+    {"q": "Age requirement?", "a": "18+ only."},
+    {"q": "Minors?", "a": "Cannot order or receive."},
+    {"q": "Non-smokers?", "a": "Not suitable — existing adult smokers/vapers only."},
+    {"q": "Legal in Australia?", "a": "Regulations vary by state — general info only."},
+    {"q": "Air travel?", "a": "Cabin baggage only; never checked luggage."},
+    {"q": "Disposal?", "a": "E-waste / battery recycling drop-off."},
+    {"q": "Safe storage?", "a": "Away from children, heat, sunlight."},
+    {"q": "Child ingests e-liquid?", "a": "Seek medical advice immediately."},
+    {"q": "Pregnant/breastfeeding?", "a": "Not suitable."},
+    {"q": "Medical advice?", "a": "No — consult healthcare professional."},
+    {"q": "Consumer rights?", "a": "Australian Consumer Law may apply for faulty items."},
+    {"q": "Full terms?", "a": "https://www.ailibarbar.com/terms"}
+  ]
+}

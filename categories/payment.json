@@ -1,0 +1,22 @@
+{
+  "category": "Payment",
+  "version": "1.0.0",
+  "lastUpdated": "2026-07-08",
+  "items": [
+    {"q": "Payment methods?", "a": "Bank transfer only."},
+    {"q": "How to pay?", "a": "Order, transfer total, use order number as reference, upload screenshot."},
+    {"q": "Why upload screenshot?", "a": "Speeds up payment matching."},
+    {"q": "Payment reference?", "a": "Your order number."},
+    {"q": "Verification time?", "a": "After transfer visible and matched."},
+    {"q": "Forgot order number reference?", "a": "Email orders@ailibarbar.com with details."},
+    {"q": "Wrong transfer amount?", "a": "Contact immediately."},
+    {"q": "Secure checkout?", "a": "HTTPS; no card numbers stored."},
+    {"q": "Credit cards?", "a": "Not currently."},
+    {"q": "PayPal?", "a": "Not currently."},
+    {"q": "Cancel before paying?", "a": "Contact with order number."},
+    {"q": "Cancel after paying?", "a": "Contact ASAP if not dispatched."},
+    {"q": "Currency?", "a": "AUD."},
+    {"q": "Receipt?", "a": "Order confirmation is the record."},
+    {"q": "Payment problems?", "a": "orders@ailibarbar.com"}
+  ]
+}

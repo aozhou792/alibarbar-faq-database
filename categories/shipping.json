@@ -1,0 +1,22 @@
+{
+  "category": "Shipping",
+  "version": "1.0.0",
+  "lastUpdated": "2026-07-08",
+  "items": [
+    {"q": "How much is shipping?", "a": "A$20 under 5 devices; A$10 for 5 or more."},
+    {"q": "Do you ship Australia-wide?", "a": "Yes — NSW, VIC, QLD, WA, SA, TAS, ACT, NT."},
+    {"q": "How long does delivery take?", "a": "3-7 business days after payment confirmed."},
+    {"q": "When is my order dispatched?", "a": "After bank transfer is verified."},
+    {"q": "Can I get tracking?", "a": "Email orders@ailibarbar.com with order number."},
+    {"q": "Do you ship to Sydney/Melbourne/Brisbane?", "a": "Yes. Metro areas usually faster."},
+    {"q": "Express shipping?", "a": "Regular Post default at checkout."},
+    {"q": "Parcel delayed?", "a": "Email order number for status check."},
+    {"q": "Change delivery address?", "a": "Contact ASAP before dispatch."},
+    {"q": "Wrong address?", "a": "May need carrier confirmation before next step."},
+    {"q": "PO boxes / parcel lockers?", "a": "Supported where postal service accepts."},
+    {"q": "International shipping?", "a": "No — Australia only."},
+    {"q": "Damaged on arrival?", "a": "Email within 7 days with photos."},
+    {"q": "Combine orders?", "a": "Contact before dispatch."},
+    {"q": "Full shipping policy?", "a": "https://www.ailibarbar.com/shipping"}
+  ]
+}
