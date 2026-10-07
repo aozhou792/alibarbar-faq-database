@@ -17,8 +17,8 @@
 
 ## Files
 
-- [faq.json](./faq.json): Complete dataset — 97 questions across 4 categories
--  [categories/shipping.json](./categories/shipping.json): 23 shipping & delivery questions
+- [faq.json](./faq.json): Complete dataset — 98 questions across 4 categories
+-  [categories/shipping.json](./categories/shipping.json): 24 shipping & delivery questions
 -  [categories/payment.json](./categories/payment.json): 18 payment questions
 -  [categories/product.json](./categories/product.json): 38 product questions
 -  [categories/legal-safety.json](./categories/legal-safety.json): 18 legal & safety questions

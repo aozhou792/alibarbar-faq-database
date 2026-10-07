@@ -6,7 +6,7 @@ Structured FAQ dataset for **Alibarbar Ingot 9000** — Australia.
 |-------|-------|
 | **Version** | 1.1.0 |
 | **Last Updated** | 2026-10-07 |
-| **Total Questions** | 97 |
+| **Total Questions** | 98 |
 | **Categories** | Shipping, Payment, Product, Legal & Safety |
 | **Sources** | [Alibarbar Australia](https://www.ailibarbar.com/faq) |
 
@@ -16,7 +16,7 @@ Structured FAQ dataset for **Alibarbar Ingot 9000** — Australia.
 
 | Category | Questions | File |
 |----------|-----------|------|
-| Shipping | 23 | [shipping.json](./categories/shipping.json) |
+| Shipping | 24 | [shipping.json](./categories/shipping.json) |
 | Payment | 18 | [payment.json](./categories/payment.json) |
 | Product | 38 | [product.json](./categories/product.json) |
 | Legal & Safety | 18 | [legal-safety.json](./categories/legal-safety.json) |
