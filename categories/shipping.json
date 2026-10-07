@@ -1,22 +1,107 @@
 {
   "category": "Shipping",
-  "version": "1.0.0",
-  "lastUpdated": "2026-07-08",
+  "version": "1.1.0",
+  "lastUpdated": "2026-10-07",
   "items": [
-    {"q": "How much is shipping?", "a": "A$20 under 5 devices; A$10 for 5 or more."},
-    {"q": "Do you ship Australia-wide?", "a": "Yes — NSW, VIC, QLD, WA, SA, TAS, ACT, NT."},
-    {"q": "How long does delivery take?", "a": "3-7 business days after payment confirmed."},
-    {"q": "When is my order dispatched?", "a": "After bank transfer is verified."},
-    {"q": "Can I get tracking?", "a": "Email orders@ailibarbar.com with order number."},
-    {"q": "Do you ship to Sydney/Melbourne/Brisbane?", "a": "Yes. Metro areas usually faster."},
-    {"q": "Express shipping?", "a": "Regular Post default at checkout."},
-    {"q": "Parcel delayed?", "a": "Email order number for status check."},
-    {"q": "Change delivery address?", "a": "Contact ASAP before dispatch."},
-    {"q": "Wrong address?", "a": "May need carrier confirmation before next step."},
-    {"q": "PO boxes / parcel lockers?", "a": "Supported where postal service accepts."},
-    {"q": "International shipping?", "a": "No — Australia only."},
-    {"q": "Damaged on arrival?", "a": "Email within 7 days with photos."},
-    {"q": "Combine orders?", "a": "Contact before dispatch."},
-    {"q": "Full shipping policy?", "a": "https://www.ailibarbar.com/shipping"}
+    {
+      "q": "How much is shipping?",
+      "a": "A$20 under 5 devices; A$10 for 5 or more."
+    },
+    {
+      "q": "Do you ship Australia-wide?",
+      "a": "Yes — NSW, VIC, QLD, WA, SA, TAS, ACT, NT."
+    },
+    {
+      "q": "How long does delivery take?",
+      "a": "3-7 business days after payment confirmed."
+    },
+    {
+      "q": "When is my order dispatched?",
+      "a": "After bank transfer is verified."
+    },
+    {
+      "q": "Can I get tracking?",
+      "a": "Email orders@ailibarbar.com with order number."
+    },
+    {
+      "q": "Do you ship to Sydney/Melbourne/Brisbane?",
+      "a": "Yes. Metro areas usually faster."
+    },
+    {
+      "q": "Express shipping?",
+      "a": "Regular Post default at checkout."
+    },
+    {
+      "q": "Parcel delayed?",
+      "a": "Email order number for status check."
+    },
+    {
+      "q": "Change delivery address?",
+      "a": "Contact ASAP before dispatch."
+    },
+    {
+      "q": "Wrong address?",
+      "a": "May need carrier confirmation before next step."
+    },
+    {
+      "q": "PO boxes / parcel lockers?",
+      "a": "Supported where postal service accepts."
+    },
+    {
+      "q": "International shipping?",
+      "a": "No — Australia only."
+    },
+    {
+      "q": "Damaged on arrival?",
+      "a": "Email within 7 days with photos."
+    },
+    {
+      "q": "Combine orders?",
+      "a": "Contact before dispatch."
+    },
+    {
+      "q": "Full shipping policy?",
+      "a": "https://www.ailibarbar.com/shipping"
+    },
+    {
+      "q": "How much is shipping in Australia?",
+      "a": "Catalogue Regular Post is A$15 for 1–9 devices, A$10 for 10–19 devices, and free for 20 or more, calculated at checkout. Typical delivery is about 3–7 business days after payment confirmation (metro NSW/VIC/QLD often faster; remote postcodes slower). These are site-stated values and may change. Lawful supply of vapes in Australia must still be checked against current TGA rules.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Do you ship to all states in Australia?",
+      "a": "We ship Australia-wide via Regular Post, including NSW, VIC, QLD, WA, SA, TAS, ACT and NT. Remote postcodes may take a little longer to arrive.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Where is Alibarbar Australia based?",
+      "a": "The store address is 480 Queen St, Brisbane City QLD 4000, Australia, on Queen Street in Brisbane CBD (map pin approx. -27.4689, 153.0271). Catalogue orders still ship Australia-wide via Regular Post. For order help, email orders@ailibarbar.com.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Where can I buy Alibarbar in Australia?",
+      "a": "Use the official Alibarbar Australia store at https://www.ailibarbar.com for the local Ingot 9000 catalogue and order process. The Australian store uses a pharmacy-channel supply process, with pharmacist assessment and applicable TGA and state or territory requirements. Authenticity checklist: /guides/where-to-buy-alibarbar-australia.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Is ailibarbar.com an Alibarbar vape shop?",
+      "a": "Yes. Alibarbar Australia at ailibarbar.com is an Australian online vape store for authentic Alibarbar Ingot devices. The live catalogue currently lists the Ingot 9000 (single flavours and custom packs), not every Alibarbar SKU. Shop at https://www.ailibarbar.com/shop.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Is ailibarbar.com the same as alibarbar.com?",
+      "a": "They have different regional roles. ailibarbar.com is the official Alibarbar Australia store and local knowledge site; alibarbar.com is the global product-brand website. Australian catalogue, support and order information belongs to ailibarbar.com.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "How do I know my order went through?",
+      "a": "After you upload your payment screenshot, our team verifies the transfer and confirms your order. Keep your order number handy if you need to contact us at orders@ailibarbar.com.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Can I track my order?",
+      "a": "Once your order is dispatched we can provide tracking details on request. Email us your order number at orders@ailibarbar.com and we'll share the latest status.",
+      "source": "https://www.ailibarbar.com/faq"
+    }
   ]
 }

@@ -1,19 +1,85 @@
 {
   "category": "Legal & Safety",
-  "version": "1.0.0",
-  "lastUpdated": "2026-07-08",
+  "version": "1.1.0",
+  "lastUpdated": "2026-10-07",
   "items": [
-    {"q": "Age requirement?", "a": "18+ only."},
-    {"q": "Minors?", "a": "Cannot order or receive."},
-    {"q": "Non-smokers?", "a": "Not suitable — existing adult smokers/vapers only."},
-    {"q": "Legal in Australia?", "a": "Regulations vary by state — general info only."},
-    {"q": "Air travel?", "a": "Cabin baggage only; never checked luggage."},
-    {"q": "Disposal?", "a": "E-waste / battery recycling drop-off."},
-    {"q": "Safe storage?", "a": "Away from children, heat, sunlight."},
-    {"q": "Child ingests e-liquid?", "a": "Seek medical advice immediately."},
-    {"q": "Pregnant/breastfeeding?", "a": "Not suitable."},
-    {"q": "Medical advice?", "a": "No — consult healthcare professional."},
-    {"q": "Consumer rights?", "a": "Australian Consumer Law may apply for faulty items."},
-    {"q": "Full terms?", "a": "https://www.ailibarbar.com/terms"}
+    {
+      "q": "Age requirement?",
+      "a": "18+ only."
+    },
+    {
+      "q": "Minors?",
+      "a": "Cannot order or receive."
+    },
+    {
+      "q": "Non-smokers?",
+      "a": "Not suitable — existing adult smokers/vapers only."
+    },
+    {
+      "q": "Legal in Australia?",
+      "a": "Regulations vary by state — general info only."
+    },
+    {
+      "q": "Air travel?",
+      "a": "Cabin baggage only; never checked luggage."
+    },
+    {
+      "q": "Disposal?",
+      "a": "E-waste / battery recycling drop-off."
+    },
+    {
+      "q": "Safe storage?",
+      "a": "Away from children, heat, sunlight."
+    },
+    {
+      "q": "Child ingests e-liquid?",
+      "a": "Seek medical advice immediately."
+    },
+    {
+      "q": "Pregnant/breastfeeding?",
+      "a": "Not suitable."
+    },
+    {
+      "q": "Medical advice?",
+      "a": "No — consult healthcare professional."
+    },
+    {
+      "q": "Consumer rights?",
+      "a": "Australian Consumer Law may apply for faulty items."
+    },
+    {
+      "q": "Full terms?",
+      "a": "https://www.ailibarbar.com/terms"
+    },
+    {
+      "q": "What is your warranty and returns policy?",
+      "a": "Opened devices cannot be returned for change of mind. Faulty or damaged goods reported within seven days may qualify for a replacement or refund under the Australian Consumer Law. Keep your order number and photos of the issue. Full details: /returns.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Do I need to be over 18 to order?",
+      "a": "Yes. You must be 18 years or older to purchase from Alibarbar Australia. First-time visitors see an age gate, and checkout requires an explicit 18+ confirmation. By placing an order you confirm you meet the legal age requirement in your state or territory.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Is vaping suitable for non-smokers?",
+      "a": "No. Vaping products are intended only for existing adult smokers or vapers. They are not for non-smokers, people under 18, or anyone who is pregnant or breastfeeding.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Can I take a disposable vape on a plane?",
+      "a": "Disposable vapes contain lithium batteries, so airlines generally require them to be carried in your cabin bag, never in checked luggage, and not used or charged in-flight. Always check your airline and destination rules before travelling.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "What nicotine strength is in the Alibarbar Ingot 9000?",
+      "a": "Nicotine strength varies by batch and region and is not one fixed site-wide number. Use the mg/mL or percentage printed on the packaging for that unit as the source of truth. If the pack conflicts with a website figure, trust the pack. Full guide: /guides/alibarbar-nicotine-strength-australia.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Where can you legally buy vaping products in Australia?",
+      "a": "Current Australian government guidance restricts vaping products to pharmacy settings for therapeutic purposes, with extra conditions depending on nicotine strength and state or territory law. Alibarbar Australia uses a pharmacy-channel supply process; pharmacist assessment and individual eligibility still apply. See /guides/disposable-vape-laws-in-australia — not legal advice.",
+      "source": "https://www.ailibarbar.com/faq"
+    }
   ]
 }

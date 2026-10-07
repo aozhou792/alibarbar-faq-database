@@ -1,8 +1,453 @@
 {
   "meta": {
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-08",
-    "source": "https://www.ailibarbar.com/faq"
+    "version": "1.1.0",
+    "lastUpdated": "2026-10-07",
+    "source": "https://www.ailibarbar.com/faq",
+    "totalQuestions": 97,
+    "categories": [
+      "legal-safety",
+      "payment",
+      "product",
+      "shipping"
+    ]
   },
-  "categories": ["shipping", "payment", "product", "legal-safety"]
+  "data": {
+    "legal-safety": [
+      {
+        "q": "Age requirement?",
+        "a": "18+ only."
+      },
+      {
+        "q": "Minors?",
+        "a": "Cannot order or receive."
+      },
+      {
+        "q": "Non-smokers?",
+        "a": "Not suitable — existing adult smokers/vapers only."
+      },
+      {
+        "q": "Legal in Australia?",
+        "a": "Regulations vary by state — general info only."
+      },
+      {
+        "q": "Air travel?",
+        "a": "Cabin baggage only; never checked luggage."
+      },
+      {
+        "q": "Disposal?",
+        "a": "E-waste / battery recycling drop-off."
+      },
+      {
+        "q": "Safe storage?",
+        "a": "Away from children, heat, sunlight."
+      },
+      {
+        "q": "Child ingests e-liquid?",
+        "a": "Seek medical advice immediately."
+      },
+      {
+        "q": "Pregnant/breastfeeding?",
+        "a": "Not suitable."
+      },
+      {
+        "q": "Medical advice?",
+        "a": "No — consult healthcare professional."
+      },
+      {
+        "q": "Consumer rights?",
+        "a": "Australian Consumer Law may apply for faulty items."
+      },
+      {
+        "q": "Full terms?",
+        "a": "https://www.ailibarbar.com/terms"
+      },
+      {
+        "q": "What is your warranty and returns policy?",
+        "a": "Opened devices cannot be returned for change of mind. Faulty or damaged goods reported within seven days may qualify for a replacement or refund under the Australian Consumer Law. Keep your order number and photos of the issue. Full details: /returns.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Do I need to be over 18 to order?",
+        "a": "Yes. You must be 18 years or older to purchase from Alibarbar Australia. First-time visitors see an age gate, and checkout requires an explicit 18+ confirmation. By placing an order you confirm you meet the legal age requirement in your state or territory.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Is vaping suitable for non-smokers?",
+        "a": "No. Vaping products are intended only for existing adult smokers or vapers. They are not for non-smokers, people under 18, or anyone who is pregnant or breastfeeding.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Can I take a disposable vape on a plane?",
+        "a": "Disposable vapes contain lithium batteries, so airlines generally require them to be carried in your cabin bag, never in checked luggage, and not used or charged in-flight. Always check your airline and destination rules before travelling.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "What nicotine strength is in the Alibarbar Ingot 9000?",
+        "a": "Nicotine strength varies by batch and region and is not one fixed site-wide number. Use the mg/mL or percentage printed on the packaging for that unit as the source of truth. If the pack conflicts with a website figure, trust the pack. Full guide: /guides/alibarbar-nicotine-strength-australia.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Where can you legally buy vaping products in Australia?",
+        "a": "Current Australian government guidance restricts vaping products to pharmacy settings for therapeutic purposes, with extra conditions depending on nicotine strength and state or territory law. Alibarbar Australia uses a pharmacy-channel supply process; pharmacist assessment and individual eligibility still apply. See /guides/disposable-vape-laws-in-australia — not legal advice.",
+        "source": "https://www.ailibarbar.com/faq"
+      }
+    ],
+    "payment": [
+      {
+        "q": "Payment methods?",
+        "a": "Bank transfer only."
+      },
+      {
+        "q": "How to pay?",
+        "a": "Order, transfer total, use order number as reference, upload screenshot."
+      },
+      {
+        "q": "Why upload screenshot?",
+        "a": "Speeds up payment matching."
+      },
+      {
+        "q": "Payment reference?",
+        "a": "Your order number."
+      },
+      {
+        "q": "Verification time?",
+        "a": "After transfer visible and matched."
+      },
+      {
+        "q": "Forgot order number reference?",
+        "a": "Email orders@ailibarbar.com with details."
+      },
+      {
+        "q": "Wrong transfer amount?",
+        "a": "Contact immediately."
+      },
+      {
+        "q": "Secure checkout?",
+        "a": "HTTPS; no card numbers stored."
+      },
+      {
+        "q": "Credit cards?",
+        "a": "Not currently."
+      },
+      {
+        "q": "PayPal?",
+        "a": "Not currently."
+      },
+      {
+        "q": "Cancel before paying?",
+        "a": "Contact with order number."
+      },
+      {
+        "q": "Cancel after paying?",
+        "a": "Contact ASAP if not dispatched."
+      },
+      {
+        "q": "Currency?",
+        "a": "AUD."
+      },
+      {
+        "q": "Receipt?",
+        "a": "Order confirmation is the record."
+      },
+      {
+        "q": "Payment problems?",
+        "a": "orders@ailibarbar.com"
+      },
+      {
+        "q": "How do I pay for my order?",
+        "a": "We accept bank transfer. After placing your order you'll see our account details — transfer the total with your order number as the reference, then upload your payment screenshot to confirm.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Is checkout secure?",
+        "a": "Yes. Your order details are transmitted over an encrypted HTTPS connection, and we never store card numbers because payment is made by direct bank transfer using your own banking app.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "What currency are prices in?",
+        "a": "All prices on Alibarbar Australia are shown and charged in Australian dollars (AUD). For single and pack pricing plus shipping tiers, see /guides/alibarbar-ingot-9000-price-guide-australia.",
+        "source": "https://www.ailibarbar.com/faq"
+      }
+    ],
+    "product": [
+      {
+        "q": "What is Alibarbar Ingot 9000?",
+        "a": "Disposable vape up to 9000 puffs, 22ml, 2350mAh, LED display."
+      },
+      {
+        "q": "Full specifications?",
+        "a": "9000 puffs, 22ml, 2350mAh, inhale-activated, LED display, ~90g."
+      },
+      {
+        "q": "Rechargeable?",
+        "a": "No — non-rechargeable disposable."
+      },
+      {
+        "q": "LED display?",
+        "a": "Shows battery and e-liquid levels."
+      },
+      {
+        "q": "Real puff count?",
+        "a": "Rated up to 9000; varies with draw style."
+      },
+      {
+        "q": "How long per device?",
+        "a": "~3-4 weeks at 300 puffs/day."
+      },
+      {
+        "q": "Flavours available?",
+        "a": "10 flavours + Custom 3/5/10 packs."
+      },
+      {
+        "q": "Custom packs?",
+        "a": "3-pack A$100, 5-pack A$160, 10-pack A$300."
+      },
+      {
+        "q": "How to use?",
+        "a": "Inhale from mouthpiece — no setup."
+      },
+      {
+        "q": "Storage?",
+        "a": "Cool, dry, away from heat."
+      },
+      {
+        "q": "Device flashing?",
+        "a": "Usually depleted or draw too hard."
+      },
+      {
+        "q": "Spot a fake?",
+        "a": "Check LED display, packaging, buy from verified retailer."
+      },
+      {
+        "q": "Nicotine strength?",
+        "a": "Check device packaging for mg/ml."
+      },
+      {
+        "q": "Authentic products?",
+        "a": "Yes — genuine ALIBARBAR Ingot 9000 only."
+      },
+      {
+        "q": "What is the Alibarbar Ingot 9000?",
+        "a": "The Alibarbar Ingot 9000 is a pre-filled, pre-charged sealed disposable rated for up to 9000 puffs (usage dependent). It has a 22ml e-liquid tank, a 2350mAh non-rechargeable battery, and a built-in LED that shows remaining battery and e-liquid.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Do you sell the Alibarbar Ingot 20000?",
+        "a": "No. This catalogue currently lists the Alibarbar Ingot 9000 only. Ingot 20000 is a different Alibarbar SKU commonly listed elsewhere with a higher puff rating. See /guides/alibarbar-ingot-9000-vs-ingot-20000 for the difference.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "How many puffs does the Alibarbar Ingot 9000 have?",
+        "a": "Each Alibarbar Ingot device is rated for up to 9000 puffs (usage dependent). Actual puff count varies with puff length and draw style. It is not a guaranteed 9000-puff outcome.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "How long does one Alibarbar Ingot last?",
+        "a": "For an average user taking around 300-400 puffs per day, a 9000-puff device typically lasts roughly two to four weeks. Heavier use will shorten this, lighter use will extend it.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "How do I recharge an Alibarbar vape?",
+        "a": "You cannot. The Alibarbar Ingot is a non-rechargeable disposable that comes pre-charged with a 2350mAh battery sized to last the full e-liquid capacity. When it is finished, replace the device — do not attempt to open or charge it.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Is the Alibarbar Ingot rechargeable?",
+        "a": "No. The Alibarbar Ingot is a non-rechargeable disposable device. It comes pre-charged with a 2350mAh battery sized to last the full e-liquid capacity, so there is no charging required.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "How do I open an Alibarbar vape?",
+        "a": "Open the retail packaging, remove any mouthpiece or air-intake protective cap, then take a gentle draw. Do not pry open the device casing — it is a sealed disposable and is not meant to be opened for charging or refilling.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "How do I use a disposable vape?",
+        "a": "The Alibarbar Ingot is inhale-activated. Simply remove it from the packaging and take a gentle draw from the mouthpiece — there are no buttons, filling or setup. Start with short puffs to find your comfortable draw.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "What does the LED display show?",
+        "a": "The smart LED shows two remaining-life indicators: battery level and e-liquid level. A low or empty reading usually means the device is near the end of its usable life. Flashing can mean empty e-liquid, a depleted battery, or a draw that is too hard — try a gentler puff first. Exact flash patterns should be treated as device-specific unless confirmed by current manufacturer documentation. Full guide: /guides/how-to-read-alibarbar-led-when-finished.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Which Alibarbar flavour is best?",
+        "a": "The site’s 2026 editorial ranking currently places Quadruple Berry as the overall pick. Peach Ice is the more moderate iced option, Blackberry Ice a stronger cooling berry, and Mango Magic a tropical choice. These are editorial preferences, not objective lab scores. See /best-alibarbar-australia.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Which flavours are available?",
+        "a": "The current line-up includes Quadruple Berry, California Sunset, Peach Ice, Blackberry Ice, Mango Magic, Strawberry Coconut Watermelon, Grape Ice, Strawberry Watermelon, and Chuppa Chupps Strawberry.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "What is the 5 Flavour Custom Pack?",
+        "a": "The 5 Flavour Custom Pack lets you pick any five flavours from our current Alibarbar Ingot 9000 collection for A$165. Repeats are allowed, and your choices are saved with your order.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "What is the 10 Flavour Custom Pack?",
+        "a": "The 10 Flavour Custom Pack lets you choose any ten flavours from the current line-up for A$300. It is ideal for stocking up with variety.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "What is the 20 Flavour Custom Pack?",
+        "a": "The 20 Flavour Custom Pack lets you pick any twenty flavours from our current Alibarbar Ingot 9000 collection for A$500, with free Regular Post shipping included (20+ devices).",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "How should I store my Alibarbar Ingot?",
+        "a": "Store your device in a cool, dry place away from direct sunlight and extreme heat. Avoid leaving it in a hot car, as high temperatures can affect the battery and e-liquid.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Why is my disposable vape flashing?",
+        "a": "A flashing light usually means the device is out of e-liquid or the battery has run down, which signals it has reached the end of its life. It can also flash if you draw too hard — try a gentler puff first.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Are your products authentic?",
+        "a": "Check that packaging and ALIBARBAR branding are consistent, the device has the expected smart LED, and specs match the known Ingot 9000 profile: up to 9000 puffs, 22ml e-liquid and a 2350mAh built-in battery. Missing or inconsistent specifications are warning signs. See /guides/how-to-spot-fake-alibarbar-ingot.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Is there a warranty on disposable vapes?",
+        "a": "Disposable vapes are consumable products, but if a device arrives damaged or faulty out of the box, contact us within 7 days. Under the Australian Consumer Law you may be entitled to a replacement or refund for products that are not of acceptable quality.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "How can I tell if my Alibarbar Ingot is genuine?",
+        "a": "Check packaging, a working smart LED (battery + e-liquid), and specs that match up to 9000 puffs, 22ml and 2350mAh. Unusually cheap marketplace lots that omit the LED are a warning sign. See /guides/how-to-spot-fake-alibarbar-ingot and /guides/alibarbar-ingot-9000-price-guide-australia.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Which Alibarbar flavour is best for beginners?",
+        "a": "Mild fruit blends such as Mango Magic or Strawberry Watermelon are popular starting points. If you prefer a cooler finish, try Peach Ice or Grape Ice with shorter first puffs until you find your comfortable draw.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "How do I dispose of a used device?",
+        "a": "Take it to an e-waste or battery recycling drop-off. A used disposable contains a lithium battery and should not go in general household waste.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "How do Alibarbar custom packs work?",
+        "a": "Choose any mix of 5, 10 or 20 Ingot 9000 flavours on the custom pack product page before checkout — repeats allowed. Current catalogue prices are A$165 (5-pack), A$300 (10-pack) and A$500 (20-pack). Full guide: /guides/alibarbar-custom-pack-guide-australia.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Can I verify my Alibarbar device online?",
+        "a": "Yes. Visit /verify and photograph the circular honeycomb anti-counterfeit seal on your packaging. The tool compares your image against official templates. Combine with LED and packaging checks in /guides/how-to-spot-fake-alibarbar-ingot.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "How much does an Alibarbar Ingot 9000 cost in Australia?",
+        "a": "Catalogue pricing lists singles at A$35, the 5 Flavour Custom Pack at A$165, 10-pack at A$300 and 20-pack at A$500, all in AUD. Shipping is tiered: A$15 (1–9 devices), A$10 (10–19), free at 20+. See /guides/alibarbar-ingot-9000-price-guide-australia.",
+        "source": "https://www.ailibarbar.com/faq"
+      }
+    ],
+    "shipping": [
+      {
+        "q": "How much is shipping?",
+        "a": "A$20 under 5 devices; A$10 for 5 or more."
+      },
+      {
+        "q": "Do you ship Australia-wide?",
+        "a": "Yes — NSW, VIC, QLD, WA, SA, TAS, ACT, NT."
+      },
+      {
+        "q": "How long does delivery take?",
+        "a": "3-7 business days after payment confirmed."
+      },
+      {
+        "q": "When is my order dispatched?",
+        "a": "After bank transfer is verified."
+      },
+      {
+        "q": "Can I get tracking?",
+        "a": "Email orders@ailibarbar.com with order number."
+      },
+      {
+        "q": "Do you ship to Sydney/Melbourne/Brisbane?",
+        "a": "Yes. Metro areas usually faster."
+      },
+      {
+        "q": "Express shipping?",
+        "a": "Regular Post default at checkout."
+      },
+      {
+        "q": "Parcel delayed?",
+        "a": "Email order number for status check."
+      },
+      {
+        "q": "Change delivery address?",
+        "a": "Contact ASAP before dispatch."
+      },
+      {
+        "q": "Wrong address?",
+        "a": "May need carrier confirmation before next step."
+      },
+      {
+        "q": "PO boxes / parcel lockers?",
+        "a": "Supported where postal service accepts."
+      },
+      {
+        "q": "International shipping?",
+        "a": "No — Australia only."
+      },
+      {
+        "q": "Damaged on arrival?",
+        "a": "Email within 7 days with photos."
+      },
+      {
+        "q": "Combine orders?",
+        "a": "Contact before dispatch."
+      },
+      {
+        "q": "Full shipping policy?",
+        "a": "https://www.ailibarbar.com/shipping"
+      },
+      {
+        "q": "How much is shipping in Australia?",
+        "a": "Catalogue Regular Post is A$15 for 1–9 devices, A$10 for 10–19 devices, and free for 20 or more, calculated at checkout. Typical delivery is about 3–7 business days after payment confirmation (metro NSW/VIC/QLD often faster; remote postcodes slower). These are site-stated values and may change. Lawful supply of vapes in Australia must still be checked against current TGA rules.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Do you ship to all states in Australia?",
+        "a": "We ship Australia-wide via Regular Post, including NSW, VIC, QLD, WA, SA, TAS, ACT and NT. Remote postcodes may take a little longer to arrive.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Where is Alibarbar Australia based?",
+        "a": "The store address is 480 Queen St, Brisbane City QLD 4000, Australia, on Queen Street in Brisbane CBD (map pin approx. -27.4689, 153.0271). Catalogue orders still ship Australia-wide via Regular Post. For order help, email orders@ailibarbar.com.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Where can I buy Alibarbar in Australia?",
+        "a": "Use the official Alibarbar Australia store at https://www.ailibarbar.com for the local Ingot 9000 catalogue and order process. The Australian store uses a pharmacy-channel supply process, with pharmacist assessment and applicable TGA and state or territory requirements. Authenticity checklist: /guides/where-to-buy-alibarbar-australia.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Is ailibarbar.com an Alibarbar vape shop?",
+        "a": "Yes. Alibarbar Australia at ailibarbar.com is an Australian online vape store for authentic Alibarbar Ingot devices. The live catalogue currently lists the Ingot 9000 (single flavours and custom packs), not every Alibarbar SKU. Shop at https://www.ailibarbar.com/shop.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Is ailibarbar.com the same as alibarbar.com?",
+        "a": "They have different regional roles. ailibarbar.com is the official Alibarbar Australia store and local knowledge site; alibarbar.com is the global product-brand website. Australian catalogue, support and order information belongs to ailibarbar.com.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "How do I know my order went through?",
+        "a": "After you upload your payment screenshot, our team verifies the transfer and confirms your order. Keep your order number handy if you need to contact us at orders@ailibarbar.com.",
+        "source": "https://www.ailibarbar.com/faq"
+      },
+      {
+        "q": "Can I track my order?",
+        "a": "Once your order is dispatched we can provide tracking details on request. Email us your order number at orders@ailibarbar.com and we'll share the latest status.",
+        "source": "https://www.ailibarbar.com/faq"
+      }
+    ]
+  }
 }

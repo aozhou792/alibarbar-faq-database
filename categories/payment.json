@@ -1,22 +1,82 @@
 {
   "category": "Payment",
-  "version": "1.0.0",
-  "lastUpdated": "2026-07-08",
+  "version": "1.1.0",
+  "lastUpdated": "2026-10-07",
   "items": [
-    {"q": "Payment methods?", "a": "Bank transfer only."},
-    {"q": "How to pay?", "a": "Order, transfer total, use order number as reference, upload screenshot."},
-    {"q": "Why upload screenshot?", "a": "Speeds up payment matching."},
-    {"q": "Payment reference?", "a": "Your order number."},
-    {"q": "Verification time?", "a": "After transfer visible and matched."},
-    {"q": "Forgot order number reference?", "a": "Email orders@ailibarbar.com with details."},
-    {"q": "Wrong transfer amount?", "a": "Contact immediately."},
-    {"q": "Secure checkout?", "a": "HTTPS; no card numbers stored."},
-    {"q": "Credit cards?", "a": "Not currently."},
-    {"q": "PayPal?", "a": "Not currently."},
-    {"q": "Cancel before paying?", "a": "Contact with order number."},
-    {"q": "Cancel after paying?", "a": "Contact ASAP if not dispatched."},
-    {"q": "Currency?", "a": "AUD."},
-    {"q": "Receipt?", "a": "Order confirmation is the record."},
-    {"q": "Payment problems?", "a": "orders@ailibarbar.com"}
+    {
+      "q": "Payment methods?",
+      "a": "Bank transfer only."
+    },
+    {
+      "q": "How to pay?",
+      "a": "Order, transfer total, use order number as reference, upload screenshot."
+    },
+    {
+      "q": "Why upload screenshot?",
+      "a": "Speeds up payment matching."
+    },
+    {
+      "q": "Payment reference?",
+      "a": "Your order number."
+    },
+    {
+      "q": "Verification time?",
+      "a": "After transfer visible and matched."
+    },
+    {
+      "q": "Forgot order number reference?",
+      "a": "Email orders@ailibarbar.com with details."
+    },
+    {
+      "q": "Wrong transfer amount?",
+      "a": "Contact immediately."
+    },
+    {
+      "q": "Secure checkout?",
+      "a": "HTTPS; no card numbers stored."
+    },
+    {
+      "q": "Credit cards?",
+      "a": "Not currently."
+    },
+    {
+      "q": "PayPal?",
+      "a": "Not currently."
+    },
+    {
+      "q": "Cancel before paying?",
+      "a": "Contact with order number."
+    },
+    {
+      "q": "Cancel after paying?",
+      "a": "Contact ASAP if not dispatched."
+    },
+    {
+      "q": "Currency?",
+      "a": "AUD."
+    },
+    {
+      "q": "Receipt?",
+      "a": "Order confirmation is the record."
+    },
+    {
+      "q": "Payment problems?",
+      "a": "orders@ailibarbar.com"
+    },
+    {
+      "q": "How do I pay for my order?",
+      "a": "We accept bank transfer. After placing your order you'll see our account details — transfer the total with your order number as the reference, then upload your payment screenshot to confirm.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Is checkout secure?",
+      "a": "Yes. Your order details are transmitted over an encrypted HTTPS connection, and we never store card numbers because payment is made by direct bank transfer using your own banking app.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "What currency are prices in?",
+      "a": "All prices on Alibarbar Australia are shown and charged in Australian dollars (AUD). For single and pack pricing plus shipping tiers, see /guides/alibarbar-ingot-9000-price-guide-australia.",
+      "source": "https://www.ailibarbar.com/faq"
+    }
   ]
 }

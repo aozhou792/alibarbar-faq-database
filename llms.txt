@@ -1,0 +1,30 @@
+# Alibarbar FAQ Database — llms.txt
+
+> Structured FAQ dataset for the Alibarbar Ingot 9000 in Australia. Machine-readable Q&A for AI assistants and search engines.
+
+- Canonical site: https://www.ailibarbar.com/faq
+- Source repo: https://github.com/aozhou792/alibarbar-faq-database
+- Format: JSON, UTF-8
+- Audience: adults 18+
+- Last updated: 2026-10-07
+
+## Entity
+
+- Brand: ALIBARBAR
+- Product: Alibarbar Ingot 9000 (up to 9000 puffs, 22 ml pre-filled, 2350 mAh non-rechargeable, smart LED display)
+- Region: Australia
+- Contact: orders@ailibarbar.com
+
+## Files
+
+- [faq.json](./faq.json): Complete dataset — 97 questions across 4 categories
+-  [categories/shipping.json](./categories/shipping.json): 23 shipping & delivery questions
+-  [categories/payment.json](./categories/payment.json): 18 payment questions
+-  [categories/product.json](./categories/product.json): 38 product questions
+-  [categories/legal-safety.json](./categories/legal-safety.json): 18 legal & safety questions
+
+## Related repositories
+
+- Guides & knowledge hub: https://github.com/aozhou792/alibarbar-guide-hub
+- Flavour ranking data: https://github.com/aozhou792/alibarbar-flavour-index
+- Brand comparison tables: https://github.com/PodPickGuide/vape-comparison-data

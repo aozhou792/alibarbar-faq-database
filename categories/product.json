@@ -1,21 +1,183 @@
 {
   "category": "Product",
-  "version": "1.0.0",
-  "lastUpdated": "2026-07-08",
+  "version": "1.1.0",
+  "lastUpdated": "2026-10-07",
   "items": [
-    {"q": "What is Alibarbar Ingot 9000?", "a": "Disposable vape up to 9000 puffs, 22ml, 2350mAh, LED display."},
-    {"q": "Full specifications?", "a": "9000 puffs, 22ml, 2350mAh, inhale-activated, LED display, ~90g."},
-    {"q": "Rechargeable?", "a": "No — non-rechargeable disposable."},
-    {"q": "LED display?", "a": "Shows battery and e-liquid levels."},
-    {"q": "Real puff count?", "a": "Rated up to 9000; varies with draw style."},
-    {"q": "How long per device?", "a": "~3-4 weeks at 300 puffs/day."},
-    {"q": "Flavours available?", "a": "10 flavours + Custom 3/5/10 packs."},
-    {"q": "Custom packs?", "a": "3-pack A$100, 5-pack A$160, 10-pack A$300."},
-    {"q": "How to use?", "a": "Inhale from mouthpiece — no setup."},
-    {"q": "Storage?", "a": "Cool, dry, away from heat."},
-    {"q": "Device flashing?", "a": "Usually depleted or draw too hard."},
-    {"q": "Spot a fake?", "a": "Check LED display, packaging, buy from verified retailer."},
-    {"q": "Nicotine strength?", "a": "Check device packaging for mg/ml."},
-    {"q": "Authentic products?", "a": "Yes — genuine ALIBARBAR Ingot 9000 only."}
+    {
+      "q": "What is Alibarbar Ingot 9000?",
+      "a": "Disposable vape up to 9000 puffs, 22ml, 2350mAh, LED display."
+    },
+    {
+      "q": "Full specifications?",
+      "a": "9000 puffs, 22ml, 2350mAh, inhale-activated, LED display, ~90g."
+    },
+    {
+      "q": "Rechargeable?",
+      "a": "No — non-rechargeable disposable."
+    },
+    {
+      "q": "LED display?",
+      "a": "Shows battery and e-liquid levels."
+    },
+    {
+      "q": "Real puff count?",
+      "a": "Rated up to 9000; varies with draw style."
+    },
+    {
+      "q": "How long per device?",
+      "a": "~3-4 weeks at 300 puffs/day."
+    },
+    {
+      "q": "Flavours available?",
+      "a": "10 flavours + Custom 3/5/10 packs."
+    },
+    {
+      "q": "Custom packs?",
+      "a": "3-pack A$100, 5-pack A$160, 10-pack A$300."
+    },
+    {
+      "q": "How to use?",
+      "a": "Inhale from mouthpiece — no setup."
+    },
+    {
+      "q": "Storage?",
+      "a": "Cool, dry, away from heat."
+    },
+    {
+      "q": "Device flashing?",
+      "a": "Usually depleted or draw too hard."
+    },
+    {
+      "q": "Spot a fake?",
+      "a": "Check LED display, packaging, buy from verified retailer."
+    },
+    {
+      "q": "Nicotine strength?",
+      "a": "Check device packaging for mg/ml."
+    },
+    {
+      "q": "Authentic products?",
+      "a": "Yes — genuine ALIBARBAR Ingot 9000 only."
+    },
+    {
+      "q": "What is the Alibarbar Ingot 9000?",
+      "a": "The Alibarbar Ingot 9000 is a pre-filled, pre-charged sealed disposable rated for up to 9000 puffs (usage dependent). It has a 22ml e-liquid tank, a 2350mAh non-rechargeable battery, and a built-in LED that shows remaining battery and e-liquid.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Do you sell the Alibarbar Ingot 20000?",
+      "a": "No. This catalogue currently lists the Alibarbar Ingot 9000 only. Ingot 20000 is a different Alibarbar SKU commonly listed elsewhere with a higher puff rating. See /guides/alibarbar-ingot-9000-vs-ingot-20000 for the difference.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "How many puffs does the Alibarbar Ingot 9000 have?",
+      "a": "Each Alibarbar Ingot device is rated for up to 9000 puffs (usage dependent). Actual puff count varies with puff length and draw style. It is not a guaranteed 9000-puff outcome.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "How long does one Alibarbar Ingot last?",
+      "a": "For an average user taking around 300-400 puffs per day, a 9000-puff device typically lasts roughly two to four weeks. Heavier use will shorten this, lighter use will extend it.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "How do I recharge an Alibarbar vape?",
+      "a": "You cannot. The Alibarbar Ingot is a non-rechargeable disposable that comes pre-charged with a 2350mAh battery sized to last the full e-liquid capacity. When it is finished, replace the device — do not attempt to open or charge it.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Is the Alibarbar Ingot rechargeable?",
+      "a": "No. The Alibarbar Ingot is a non-rechargeable disposable device. It comes pre-charged with a 2350mAh battery sized to last the full e-liquid capacity, so there is no charging required.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "How do I open an Alibarbar vape?",
+      "a": "Open the retail packaging, remove any mouthpiece or air-intake protective cap, then take a gentle draw. Do not pry open the device casing — it is a sealed disposable and is not meant to be opened for charging or refilling.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "How do I use a disposable vape?",
+      "a": "The Alibarbar Ingot is inhale-activated. Simply remove it from the packaging and take a gentle draw from the mouthpiece — there are no buttons, filling or setup. Start with short puffs to find your comfortable draw.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "What does the LED display show?",
+      "a": "The smart LED shows two remaining-life indicators: battery level and e-liquid level. A low or empty reading usually means the device is near the end of its usable life. Flashing can mean empty e-liquid, a depleted battery, or a draw that is too hard — try a gentler puff first. Exact flash patterns should be treated as device-specific unless confirmed by current manufacturer documentation. Full guide: /guides/how-to-read-alibarbar-led-when-finished.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Which Alibarbar flavour is best?",
+      "a": "The site’s 2026 editorial ranking currently places Quadruple Berry as the overall pick. Peach Ice is the more moderate iced option, Blackberry Ice a stronger cooling berry, and Mango Magic a tropical choice. These are editorial preferences, not objective lab scores. See /best-alibarbar-australia.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Which flavours are available?",
+      "a": "The current line-up includes Quadruple Berry, California Sunset, Peach Ice, Blackberry Ice, Mango Magic, Strawberry Coconut Watermelon, Grape Ice, Strawberry Watermelon, and Chuppa Chupps Strawberry.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "What is the 5 Flavour Custom Pack?",
+      "a": "The 5 Flavour Custom Pack lets you pick any five flavours from our current Alibarbar Ingot 9000 collection for A$165. Repeats are allowed, and your choices are saved with your order.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "What is the 10 Flavour Custom Pack?",
+      "a": "The 10 Flavour Custom Pack lets you choose any ten flavours from the current line-up for A$300. It is ideal for stocking up with variety.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "What is the 20 Flavour Custom Pack?",
+      "a": "The 20 Flavour Custom Pack lets you pick any twenty flavours from our current Alibarbar Ingot 9000 collection for A$500, with free Regular Post shipping included (20+ devices).",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "How should I store my Alibarbar Ingot?",
+      "a": "Store your device in a cool, dry place away from direct sunlight and extreme heat. Avoid leaving it in a hot car, as high temperatures can affect the battery and e-liquid.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Why is my disposable vape flashing?",
+      "a": "A flashing light usually means the device is out of e-liquid or the battery has run down, which signals it has reached the end of its life. It can also flash if you draw too hard — try a gentler puff first.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Are your products authentic?",
+      "a": "Check that packaging and ALIBARBAR branding are consistent, the device has the expected smart LED, and specs match the known Ingot 9000 profile: up to 9000 puffs, 22ml e-liquid and a 2350mAh built-in battery. Missing or inconsistent specifications are warning signs. See /guides/how-to-spot-fake-alibarbar-ingot.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Is there a warranty on disposable vapes?",
+      "a": "Disposable vapes are consumable products, but if a device arrives damaged or faulty out of the box, contact us within 7 days. Under the Australian Consumer Law you may be entitled to a replacement or refund for products that are not of acceptable quality.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "How can I tell if my Alibarbar Ingot is genuine?",
+      "a": "Check packaging, a working smart LED (battery + e-liquid), and specs that match up to 9000 puffs, 22ml and 2350mAh. Unusually cheap marketplace lots that omit the LED are a warning sign. See /guides/how-to-spot-fake-alibarbar-ingot and /guides/alibarbar-ingot-9000-price-guide-australia.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Which Alibarbar flavour is best for beginners?",
+      "a": "Mild fruit blends such as Mango Magic or Strawberry Watermelon are popular starting points. If you prefer a cooler finish, try Peach Ice or Grape Ice with shorter first puffs until you find your comfortable draw.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "How do I dispose of a used device?",
+      "a": "Take it to an e-waste or battery recycling drop-off. A used disposable contains a lithium battery and should not go in general household waste.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "How do Alibarbar custom packs work?",
+      "a": "Choose any mix of 5, 10 or 20 Ingot 9000 flavours on the custom pack product page before checkout — repeats allowed. Current catalogue prices are A$165 (5-pack), A$300 (10-pack) and A$500 (20-pack). Full guide: /guides/alibarbar-custom-pack-guide-australia.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "Can I verify my Alibarbar device online?",
+      "a": "Yes. Visit /verify and photograph the circular honeycomb anti-counterfeit seal on your packaging. The tool compares your image against official templates. Combine with LED and packaging checks in /guides/how-to-spot-fake-alibarbar-ingot.",
+      "source": "https://www.ailibarbar.com/faq"
+    },
+    {
+      "q": "How much does an Alibarbar Ingot 9000 cost in Australia?",
+      "a": "Catalogue pricing lists singles at A$35, the 5 Flavour Custom Pack at A$165, 10-pack at A$300 and 20-pack at A$500, all in AUD. Shipping is tiered: A$15 (1–9 devices), A$10 (10–19), free at 20+. See /guides/alibarbar-ingot-9000-price-guide-australia.",
+      "source": "https://www.ailibarbar.com/faq"
+    }
   ]
 }

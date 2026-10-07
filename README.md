@@ -4,9 +4,9 @@ Structured FAQ dataset for **Alibarbar Ingot 9000** — Australia.
 
 | Field | Value |
 |-------|-------|
-| **Version** | 1.0.0 |
-| **Last Updated** | 2026-07-08 |
-| **Total Questions** | 40+ |
+| **Version** | 1.1.0 |
+| **Last Updated** | 2026-10-07 |
+| **Total Questions** | 97 |
 | **Categories** | Shipping, Payment, Product, Legal & Safety |
 | **Sources** | [Alibarbar Australia](https://www.ailibarbar.com/faq) |
 
@@ -16,10 +16,10 @@ Structured FAQ dataset for **Alibarbar Ingot 9000** — Australia.
 
 | Category | Questions | File |
 |----------|-----------|------|
-| Shipping | 15 | [shipping.json](./categories/shipping.json) |
-| Payment | 15 | [payment.json](./categories/payment.json) |
-| Product | 14 | [product.json](./categories/product.json) |
-| Legal & Safety | 12 | [legal-safety.json](./categories/legal-safety.json) |
+| Shipping | 23 | [shipping.json](./categories/shipping.json) |
+| Payment | 18 | [payment.json](./categories/payment.json) |
+| Product | 38 | [product.json](./categories/product.json) |
+| Legal & Safety | 18 | [legal-safety.json](./categories/legal-safety.json) |
 
 ## Machine-Readable
 
@@ -60,7 +60,7 @@ Structured FAQ dataset for **Alibarbar Ingot 9000** — Australia.
 ## Related Repositories
 
 - [alibarbar-flavour-index](https://github.com/aozhou792/alibarbar-flavour-index)
-- [vape-comparison-data](https://github.com/aozhou792/vape-comparison-data)
+- [vape-comparison-data](https://github.com/PodPickGuide/vape-comparison-data)
 - [alibarbar-guide-hub](https://github.com/aozhou792/alibarbar-guide-hub)
 
 **Contact:** orders@ailibarbar.com
