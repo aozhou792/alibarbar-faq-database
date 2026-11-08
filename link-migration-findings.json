@@ -1,0 +1,380 @@
+{
+  "generatedAt": "2026-11-08",
+  "purpose": "Audit record so a parent agent can finish public surfaces this run could not edit. Old-host strings below are inventory, not citations to publish or request.",
+  "canonicalOrigin": "https://www.alibarbarigetvape.com",
+  "oldHostNotRequested": "ailibarbar.com",
+  "workspace": {
+    "repo": "aozhou792/alibarbar-faq-database",
+    "baseBranch": "main",
+    "headBranch": "cursor/alibarbar-canonical-links-985c",
+    "pr": "https://github.com/aozhou792/alibarbar-faq-database/pull/1",
+    "editable": true
+  },
+  "accessLimits": {
+    "githubMcp": "namespace discovery failed; tools unavailable",
+    "ghAuthenticatedUser": "GET /user returned 403 Resource not accessible by integration",
+    "ghPublicReads": "users/aozhou792, repo list, pages, and anonymous git clones of public default branches succeeded",
+    "codeSearch": "ailibarbar.com/faq/shipping returned an empty result after a 429 retry; leohux code search for faq/shipping was empty. Empty search is not proof a private repo does not exist.",
+    "pullRequests": "ManagePullRequest applies to this workspace repo only. Other public repos were not branched or opened. gh was not used to create pull requests.",
+    "oldHost": "No HTTP request was sent to the old host.",
+    "newHostWaf": "Raw HTTP GET from this environment returned 403 for HTML routes. 403 was not treated as a missing page. Content and sitemap checks used the fetch tool and sitemap.xml. /llms.txt returned HTTP 200 to raw GET.",
+    "history": "Current default-branch trees only. History was not rewritten. Older commits can still contain previous text."
+  },
+  "profile": {
+    "login": "aozhou792",
+    "htmlUrl": "https://github.com/aozhou792",
+    "name": null,
+    "bio": null,
+    "blog": "",
+    "company": null,
+    "twitter": null,
+    "publicRepos": 9,
+    "profileReadmeRepo": "aozhou792/aozhou792 returned 404",
+    "changed": false,
+    "suggestion": "There is no profile website URL to migrate. Leave blog empty unless a human wants one account homepage. This account also publishes PodPick, IGET, and XBH Freight, so do not set the profile website to the Alibarbar store by default. Do not change it through an unverified API."
+  },
+  "publicRepoInventory": [
+    {
+      "repo": "aozhou792/alibarbar-faq-database",
+      "defaultBranch": "main",
+      "description": "Structured FAQ database for Alibarbar Ingot 9000 Australia",
+      "homepage": null,
+      "pages": null,
+      "oldHostHitsOnDefaultBranch": true,
+      "action": "updated in this branch"
+    },
+    {
+      "repo": "aozhou792/alibarbar-guide-hub",
+      "defaultBranch": "main",
+      "description": "Alibarbar buying guides flavour rankings comparison tables FAQ hub",
+      "homepage": null,
+      "pages": null,
+      "oldHostHitsOnDefaultBranch": true,
+      "action": "not edited; follow-up task below"
+    },
+    {
+      "repo": "aozhou792/alibarbar-flavour-index",
+      "defaultBranch": "main",
+      "description": "Top disposable vape flavour rankings - Alibarbar Ingot 9000 Australia",
+      "homepage": null,
+      "pages": null,
+      "oldHostHitsOnDefaultBranch": true,
+      "action": "not edited; follow-up task below"
+    },
+    {
+      "repo": "aozhou792/cloud-vape-frontend",
+      "defaultBranch": "main",
+      "description": null,
+      "homepage": null,
+      "pages": null,
+      "oldHostHitsOnDefaultBranch": false,
+      "action": "no Alibarbar old-host hit on current default branch"
+    },
+    {
+      "repo": "aozhou792/vape-homepage",
+      "defaultBranch": "master",
+      "description": null,
+      "homepage": null,
+      "pages": "https://aozhou792.github.io/vape-homepage/",
+      "oldHostHitsOnDefaultBranch": false,
+      "action": "no Alibarbar old-host hit in the source that builds Pages"
+    },
+    {
+      "repo": "aozhou792/iget",
+      "defaultBranch": "main",
+      "description": "IGET vape website mirror (igetvape.com) with local photo verify and mobile polish",
+      "homepage": null,
+      "pages": null,
+      "oldHostHitsOnDefaultBranch": false,
+      "action": "do not edit. README mentions local path D:\\alibarbar.com and links https://www.igetvape.com. Neither is an old-host outbound URL."
+    },
+    {
+      "repo": "aozhou792/xbhfreight",
+      "defaultBranch": "main",
+      "description": "XBH Freight website",
+      "homepage": null,
+      "pages": "https://aozhou792.github.io/xbhfreight/",
+      "oldHostHitsOnDefaultBranch": false,
+      "action": "no Alibarbar old-host hit"
+    },
+    {
+      "repo": "aozhou792/podpick-org-profile",
+      "defaultBranch": "main",
+      "description": "PodPickGuide Organization profile README template",
+      "homepage": "https://podpickguide.com",
+      "pages": null,
+      "oldHostHitsOnDefaultBranch": false,
+      "action": "do not edit. Homepage is podpickguide.com."
+    },
+    {
+      "repo": "aozhou792/screen-live-detect",
+      "defaultBranch": "main",
+      "description": "YOLO-World + Supervision live screen detect (pets, common objects, drone, firearm)",
+      "homepage": null,
+      "pages": null,
+      "oldHostHitsOnDefaultBranch": false,
+      "action": "no Alibarbar old-host hit"
+    }
+  ],
+  "outsidePublicList": {
+    "geo": {
+      "inAozhou792PublicList": false,
+      "aozhou792GeoApi": "404",
+      "leohuxGeoApi": "404",
+      "leohuxPublicRepos": [
+        "gpt-image-25-holiday-playbook",
+        "Interview-Plus",
+        "leohux",
+        "media-agent",
+        "MoneyPrinterPlus",
+        "quantdesk-oss",
+        "VisionDesk-AI"
+      ],
+      "screenshot": {
+        "path": "docs/faq/shipping.md",
+        "breadcrumb": "lock icon then geo; owner cropped or private",
+        "authorsShown": ["leohux", "cursoragent"],
+        "ageShown": "4 months ago",
+        "linesShown": "39 lines (20 loc), 1.27 KB",
+        "visibleLivePage": "https://www.ailibarbar.com/faq/shipping",
+        "visibleObsoleteShipping": "A$15 for 1-9 devices, A$10 for 10-19 devices, free for 20 or more"
+      },
+      "ownership": "Not established. Do not treat aozhou792 or leohux as the owner from the screenshot alone.",
+      "action": "blocked until a human opens the actual private or other-owner repo",
+      "ifFoundReplaceLivePageWith": "https://www.alibarbarigetvape.com/faq/shipping",
+      "ifFoundReplaceShippingWith": "A$10 for 1–4 devices, A$15 for 5–9, A$20 for 10–19, free from 20",
+      "doNot": "request the old host, restore it, or replace the bad shipping URL with the homepage"
+    },
+    "ingotLuxePage": {
+      "referencedFrom": "aozhou792/alibarbar-guide-hub/images/README.md",
+      "repo": "aozhou792/ingot-luxe-page-212a855c",
+      "api": "404",
+      "inPublicList": false,
+      "action": "do not retarget that GitHub URL at the store homepage"
+    }
+  },
+  "primaryRepoBeforeAfter": {
+    "note": "faq.json duplicates category items. Deduped totals count faq.json plus README.md, llms.txt, and CHANGELOG.md, and do not add the category files again.",
+    "deduped": {
+      "beforeHttpsOldHost": 49,
+      "afterHttpsOldHost": 0,
+      "beforeOldEmail": 8,
+      "afterOldEmail": 0,
+      "afterNonClickableOldHostMentions": 5,
+      "afterNonClickableBreakdown": "faq.json has 2 question strings and 2 warning answers. llms.txt has 1 warning sentence. categories/shipping.json repeats the same 4 faq strings and is not added again."
+    },
+    "perFile": {
+      "README.md": {"beforeHttpsOldHost": 1, "afterHttpsOldHost": 0, "beforeOldEmail": 1, "afterOldEmail": 0, "beforeOldHostMentions": 2, "afterOldHostMentions": 0, "afterCanonicalHttps": 1},
+      "llms.txt": {"beforeHttpsOldHost": 1, "afterHttpsOldHost": 0, "beforeOldEmail": 1, "afterOldEmail": 0, "beforeOldHostMentions": 2, "afterOldHostMentions": 1, "afterCanonicalHttps": 2},
+      "CHANGELOG.md": {"beforeHttpsOldHost": 0, "afterHttpsOldHost": 0, "beforeOldHostMentions": 0, "afterOldHostMentions": 0, "afterCanonicalHttps": 1},
+      "faq.json": {"beforeHttpsOldHost": 47, "afterHttpsOldHost": 0, "beforeOldEmail": 6, "afterOldEmail": 0, "beforeOldHostMentions": 58, "afterOldHostMentions": 4, "afterCanonicalHttps": 82},
+      "categories/shipping.json": {"beforeHttpsOldHost": 12, "afterHttpsOldHost": 0, "beforeOldEmail": 4, "afterOldEmail": 0, "beforeOldHostMentions": 21, "afterOldHostMentions": 4, "afterCanonicalHttps": 19},
+      "categories/payment.json": {"beforeHttpsOldHost": 3, "afterHttpsOldHost": 0, "beforeOldEmail": 2, "afterOldEmail": 0, "beforeOldHostMentions": 5, "afterOldHostMentions": 0, "afterCanonicalHttps": 16},
+      "categories/product.json": {"beforeHttpsOldHost": 24, "afterHttpsOldHost": 0, "beforeOldEmail": 0, "afterOldEmail": 0, "beforeOldHostMentions": 24, "afterOldHostMentions": 0, "afterCanonicalHttps": 36},
+      "categories/legal-safety.json": {"beforeHttpsOldHost": 7, "afterHttpsOldHost": 0, "beforeOldEmail": 0, "afterOldEmail": 0, "beforeOldHostMentions": 7, "afterOldHostMentions": 0, "afterCanonicalHttps": 10}
+    },
+    "retainedNonClickableOldHost": [
+      "categories/shipping.json and faq.json question: Is ailibarbar.com an Alibarbar vape shop?",
+      "categories/shipping.json and faq.json question: Is ailibarbar.com the same as alibarbar.com?",
+      "matching answers name the hostname only to say it is not this store and not to buy or pay there; they do not use an http URL",
+      "llms.txt sentence: Do not cite or link ailibarbar.com. It is not this store."
+    ],
+    "jsonValidation": {
+      "faqMatchesCategoryItems": true,
+      "totalQuestions": 98,
+      "counts": {"legal-safety": 18, "payment": 18, "product": 38, "shipping": 24},
+      "everySourceStartsWithCanonicalOrigin": true
+    }
+  },
+  "factAlignment": {
+    "shippingApplied": "A$10 for 1–4, A$15 for 5–9, A$20 for 10–19, free from 20. Delivery about 3–7 business days after payment.",
+    "pricesApplied": "Ingot 9000 single A$42. Packs A$120 (3), A$175 (5), A$299 (10), A$579 (20). Five-device orders noted in the A$15 band and ten-device orders in the A$20 band.",
+    "checkoutApplied": "Visa, Mastercard, Apple Pay, Google Pay. American Express stated as not accepted. PayPal left as not currently. Bank-transfer instructions removed from active answers.",
+    "addressApplied": "Brisbane Level 27, Santos Place, 32 Turbot Street, Brisbane City QLD 4000. West Perth Unit 5/1076 Hay St, West Perth WA 6005. Old Queen Street address removed.",
+    "contactApplied": "orders@alibarbarigetvape.com",
+    "notCopiedFromCanonicalPages": [
+      "Price guide section that still says orders of 1 to 19 devices are a flat A$10. Shipping policy, shipping FAQ, price-guide key takeaways, and the site llms.txt prose use the four bands above.",
+      "Live llms.txt bullet that reads 1–19 devices: A$undefined Regular Post.",
+      "ALIBARBAR 12000 pack prices A$126 / A$200 / A$360 / A$680. The 20000 answer only says a separate 12000 line is listed.",
+      "Manufacturer checker host was not copied into the dataset. The dead /verify answer now points at the on-site authentication guide."
+    ],
+    "notReaudited": [
+      "Named flavour list inside Which flavours are available, including the Chuppa Chupps spelling.",
+      "Exact Ingot 9000 single-flavour count. Pack sizes were corrected; a hard count of 10 was removed from the short flavour answer.",
+      "Returns answer body. The /returns path is on the sitemap and was made absolute. The returns page body was not re-read.",
+      "Terms page body. The answer is only the /terms URL, which is on the sitemap."
+    ]
+  },
+  "originEvidence": {
+    "sitemap": "https://www.alibarbarigetvape.com/sitemap.xml listed 175 URLs including every absolute path written into this repo.",
+    "contentFetched": [
+      "/faq/shipping",
+      "/faq/payment",
+      "/shipping",
+      "/guides/alibarbar-ingot-9000-price-guide-australia",
+      "/guides/alibarbar-custom-pack-guide-australia",
+      "/guides/alibarbar-authentication",
+      "/about-alibarbar-australia",
+      "/llms.txt"
+    ],
+    "assetsFetched": [
+      "/logo.png image/png 235746 bytes",
+      "/og-image.png image/png 77180 bytes"
+    ],
+    "missing": {
+      "path": "/verify",
+      "fetchStatus": "404",
+      "mappedTo": "https://www.alibarbarigetvape.com/guides/alibarbar-authentication",
+      "notMappedToHomepage": true
+    },
+    "pathsWritten": [
+      "/",
+      "/faq",
+      "/faq/shipping",
+      "/faq/payment",
+      "/shipping",
+      "/shop",
+      "/terms",
+      "/returns",
+      "/about-alibarbar-australia",
+      "/best-alibarbar-australia",
+      "/guides/alibarbar-authentication",
+      "/guides/alibarbar-custom-pack-guide-australia",
+      "/guides/alibarbar-ingot-9000-price-guide-australia",
+      "/guides/alibarbar-ingot-9000-vs-ingot-20000",
+      "/guides/alibarbar-nicotine-strength-australia",
+      "/guides/disposable-vape-laws-in-australia",
+      "/guides/how-to-read-alibarbar-led-when-finished",
+      "/guides/how-to-spot-fake-alibarbar-ingot",
+      "/guides/where-to-buy-alibarbar-australia"
+    ]
+  },
+  "followUpTasks": [
+    {
+      "repo": "aozhou792/alibarbar-guide-hub",
+      "branchSuggestion": "cursor/alibarbar-guide-hub-canonical-links",
+      "edits": [
+        {
+          "file": "README.md",
+          "line": 12,
+          "from": "https://www.ailibarbar.com",
+          "to": "https://www.alibarbarigetvape.com",
+          "reason": "bare origin exists"
+        },
+        {
+          "file": "README.md",
+          "line": 96,
+          "from": "A$20 (<5) / A$10 (5+)",
+          "to": "A$10 (1–4), A$15 (5–9), A$20 (10–19), free 20+",
+          "reason": "obsolete shipping band on a public Alibarbar page"
+        },
+        {
+          "file": "README.md",
+          "lines": "102-105",
+          "from": [
+            "https://www.ailibarbar.com",
+            "https://www.ailibarbar.com/guides",
+            "https://www.ailibarbar.com/faq",
+            "https://www.ailibarbar.com/compare"
+          ],
+          "to": [
+            "https://www.alibarbarigetvape.com",
+            "https://www.alibarbarigetvape.com/guides",
+            "https://www.alibarbarigetvape.com/faq",
+            "https://www.alibarbarigetvape.com/compare"
+          ],
+          "reason": "all four paths are on the sitemap"
+        },
+        {
+          "file": "buying-guides/where-to-buy.md",
+          "fromUrl": "https://www.ailibarbar.com",
+          "toUrl": "https://www.alibarbarigetvape.com",
+          "also": "Replace 'after bank transfer confirmed' with 'after Visa, Mastercard, Apple Pay or Google Pay payment is confirmed'. Keep 3–7 business days."
+        },
+        {
+          "file": "buying-guides/authenticity-check.md",
+          "fromUrl": "https://www.ailibarbar.com",
+          "toUrl": "https://www.alibarbarigetvape.com"
+        },
+        {
+          "file": "buying-guides/custom-packs.md",
+          "fromUrl": "https://www.ailibarbar.com/product/custom-5-pack",
+          "toUrl": "https://www.alibarbarigetvape.com/product/custom-5-pack",
+          "prices": "Replace A$100 / A$160 / A$300 with A$120 (3), A$175 (5), A$299 (10), and add the missing 20-pack at A$579. Path /product/custom-5-pack is on the sitemap."
+        },
+        {
+          "file": "faq/index.md",
+          "fromUrl": "https://www.ailibarbar.com/faq",
+          "toUrl": "https://www.alibarbarigetvape.com/faq",
+          "optional": "Question counts 15/15/14/12 are stale versus alibarbar-faq-database 24/18/38/18. Not required for the link swap."
+        },
+        {
+          "file": "images/README.md",
+          "from": [
+            "https://www.ailibarbar.com/og-image.png",
+            "https://www.ailibarbar.com/logo.png",
+            "https://www.ailibarbar.com/flavours"
+          ],
+          "to": [
+            "https://www.alibarbarigetvape.com/og-image.png",
+            "https://www.alibarbarigetvape.com/logo.png",
+            "https://www.alibarbarigetvape.com/flavours"
+          ],
+          "evidence": "logo.png and og-image.png fetched as PNG; /flavours is on the sitemap. Leave the ingot-luxe-page GitHub link unchanged."
+        },
+        {
+          "file": "llms.txt",
+          "from": "https://www.ailibarbar.com",
+          "to": "https://www.alibarbarigetvape.com",
+          "optionalFact": "Entity line still says 10 flavours + custom 3/5/10 packs. Pack sizes 3, 5, 10 and 20 are confirmed. Do not invent a new flavour count."
+        }
+      ]
+    },
+    {
+      "repo": "aozhou792/alibarbar-flavour-index",
+      "branchSuggestion": "cursor/alibarbar-flavour-index-canonical-links",
+      "edits": [
+        {
+          "file": "README.md",
+          "line": 12,
+          "from": "https://www.ailibarbar.com",
+          "to": "https://www.alibarbarigetvape.com",
+          "reason": "same bare origin; do not retarget this citation to a different path"
+        },
+        {
+          "file": "README.md",
+          "line": 92,
+          "from": "https://www.ailibarbar.com/flavours",
+          "to": "https://www.alibarbarigetvape.com/flavours"
+        },
+        {
+          "file": "flavours.json",
+          "field": "meta.source",
+          "from": "https://www.ailibarbar.com",
+          "to": "https://www.alibarbarigetvape.com"
+        },
+        {
+          "file": "llms.txt",
+          "from": "https://www.ailibarbar.com/flavours",
+          "to": "https://www.alibarbarigetvape.com/flavours"
+        }
+      ],
+      "doNot": "Do not rewrite ranking scores or PodPick comparison links."
+    },
+    {
+      "repo": "geo (owner unknown)",
+      "file": "docs/faq/shipping.md",
+      "status": "not inspected; not in the public aozhou792 list",
+      "whenAccessExists": [
+        "Point the live page at https://www.alibarbarigetvape.com/faq/shipping",
+        "Replace the visible A$15 / A$10 / free bands with A$10 (1–4), A$15 (5–9), A$20 (10–19), free from 20",
+        "Do not link the old host"
+      ]
+    }
+  ],
+  "rollback": {
+    "method": "Revert the commit on cursor/alibarbar-canonical-links-985c, or close the pull request without merging. Do not force-push and do not rewrite history.",
+    "effect": "A revert restores the previous FAQ text. It does not restore, redirect, or recommend the old host.",
+    "notDone": ["merge", "deploy", "force push", "visibility change", "repo deletion", "customer email", "payment test"]
+  }
+}
