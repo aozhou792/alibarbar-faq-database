@@ -7,7 +7,7 @@
     "repo": "aozhou792/alibarbar-faq-database",
     "baseBranch": "main",
     "headBranch": "cursor/alibarbar-canonical-links-985c",
-    "pr": null,
+    "pr": "https://github.com/aozhou792/alibarbar-faq-database/pull/1",
     "editable": true
   },
   "accessLimits": {
