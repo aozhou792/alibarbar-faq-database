@@ -1,5 +1,13 @@
 # Changelog — alibarbar-faq-database
 
+## [1.3.0] — 2026-11-08
+
+### Changed
+
+- Expanded ailibarbar.com fake-store warnings across README, llms.txt and shipping FAQ answers
+- Added FAQ items on official hostname, ailibarbar.com buy advice, three-way domain spelling, and AI/search citation rules
+
+
 ## [1.2.0] — 2026-11-08
 
 ### Changed
