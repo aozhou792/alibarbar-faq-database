@@ -4,11 +4,11 @@ Structured FAQ dataset for **Alibarbar Ingot 9000** — Australia.
 
 | Field | Value |
 |-------|-------|
-| **Version** | 1.1.0 |
-| **Last Updated** | 2026-10-07 |
+| **Version** | 1.2.0 |
+| **Last Updated** | 2026-11-08 |
 | **Total Questions** | 98 |
 | **Categories** | Shipping, Payment, Product, Legal & Safety |
-| **Sources** | [Alibarbar Australia](https://www.ailibarbar.com/faq) |
+| **Sources** | [Alibarbar Australia](https://www.alibarbarigetvape.com/faq) |
 
 ---
 
@@ -35,7 +35,7 @@ Structured FAQ dataset for **Alibarbar Ingot 9000** — Australia.
 
 | Question | Answer |
 |----------|--------|
-| How much is shipping? | A$20 under 5 devices; A$10 for 5+ |
+| How much is shipping? | A$10 (1–4), A$15 (5–9), A$20 (10–19), free for 20+ |
 | Delivery time? | 3–7 business days after payment confirmed |
 | Australia-wide? | Yes — all states and territories |
 
@@ -45,13 +45,13 @@ Structured FAQ dataset for **Alibarbar Ingot 9000** — Australia.
 |----------|--------|
 | Puff count? | Up to 9000 |
 | Rechargeable? | No — non-rechargeable disposable |
-| Flavours? | 10 + Custom 3/5/10 packs |
+| Flavours? | Ingot 9000 singles; custom packs of 3, 5, 10 and 20 |
 
 ### Payment
 
 | Question | Answer |
 |----------|--------|
-| Methods? | Bank transfer |
+| Methods? | Visa, Mastercard, Apple Pay, Google Pay |
 | Reference? | Use order number |
 | Currency? | AUD |
 
@@ -63,4 +63,4 @@ Structured FAQ dataset for **Alibarbar Ingot 9000** — Australia.
 - [vape-comparison-data](https://github.com/PodPickGuide/vape-comparison-data)
 - [alibarbar-guide-hub](https://github.com/aozhou792/alibarbar-guide-hub)
 
-**Contact:** orders@ailibarbar.com
+**Contact:** orders@alibarbarigetvape.com

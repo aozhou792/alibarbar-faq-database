@@ -1,19 +1,22 @@
 {
   "category": "Payment",
-  "version": "1.1.0",
-  "lastUpdated": "2026-10-07",
+  "version": "1.2.0",
+  "lastUpdated": "2026-11-08",
   "items": [
     {
       "q": "Payment methods?",
-      "a": "Bank transfer only."
+      "a": "Visa, Mastercard, Apple Pay or Google Pay on https://www.alibarbarigetvape.com.",
+      "source": "https://www.alibarbarigetvape.com/faq/payment"
     },
     {
       "q": "How to pay?",
-      "a": "Order, transfer total, use order number as reference, upload screenshot."
+      "a": "Pay at checkout on https://www.alibarbarigetvape.com with Visa, Mastercard, Apple Pay or Google Pay. Keep the order number.",
+      "source": "https://www.alibarbarigetvape.com/faq/payment"
     },
     {
       "q": "Why upload screenshot?",
-      "a": "Speeds up payment matching."
+      "a": "This shop does not confirm payment with a bank-transfer screenshot. Checkout charges Visa, Mastercard, Apple Pay or Google Pay, and the order is confirmed when that payment succeeds.",
+      "source": "https://www.alibarbarigetvape.com/faq/payment"
     },
     {
       "q": "Payment reference?",
@@ -21,23 +24,27 @@
     },
     {
       "q": "Verification time?",
-      "a": "After transfer visible and matched."
+      "a": "Card, Apple Pay or Google Pay confirmation is normally immediate at checkout.",
+      "source": "https://www.alibarbarigetvape.com/shipping"
     },
     {
       "q": "Forgot order number reference?",
-      "a": "Email orders@ailibarbar.com with details."
+      "a": "Email orders@alibarbarigetvape.com with details."
     },
     {
       "q": "Wrong transfer amount?",
-      "a": "Contact immediately."
+      "a": "If a charge looks wrong, email orders@alibarbarigetvape.com with the order number immediately.",
+      "source": "https://www.alibarbarigetvape.com/faq/payment"
     },
     {
       "q": "Secure checkout?",
-      "a": "HTTPS; no card numbers stored."
+      "a": "Checkout is on https://www.alibarbarigetvape.com over HTTPS.",
+      "source": "https://www.alibarbarigetvape.com/faq/payment"
     },
     {
       "q": "Credit cards?",
-      "a": "Not currently."
+      "a": "Yes. Visa and Mastercard. American Express is not accepted.",
+      "source": "https://www.alibarbarigetvape.com/faq/payment"
     },
     {
       "q": "PayPal?",
@@ -61,22 +68,22 @@
     },
     {
       "q": "Payment problems?",
-      "a": "orders@ailibarbar.com"
+      "a": "orders@alibarbarigetvape.com"
     },
     {
       "q": "How do I pay for my order?",
-      "a": "We accept bank transfer. After placing your order you'll see our account details — transfer the total with your order number as the reference, then upload your payment screenshot to confirm.",
-      "source": "https://www.ailibarbar.com/faq"
+      "a": "Adults 18+ pay on https://www.alibarbarigetvape.com by Visa, Mastercard, Apple Pay or Google Pay. The order is confirmed when that payment succeeds. Keep the order number.",
+      "source": "https://www.alibarbarigetvape.com/faq/payment"
     },
     {
       "q": "Is checkout secure?",
-      "a": "Yes. Your order details are transmitted over an encrypted HTTPS connection, and we never store card numbers because payment is made by direct bank transfer using your own banking app.",
-      "source": "https://www.ailibarbar.com/faq"
+      "a": "Yes. Checkout is on https://www.alibarbarigetvape.com. Card numbers are entered on a secure payment page. Adults 18+ pay by Visa, Mastercard, Apple Pay or Google Pay.",
+      "source": "https://www.alibarbarigetvape.com/faq/payment"
     },
     {
       "q": "What currency are prices in?",
-      "a": "All prices on Alibarbar Australia are shown and charged in Australian dollars (AUD). For single and pack pricing plus shipping tiers, see /guides/alibarbar-ingot-9000-price-guide-australia.",
-      "source": "https://www.ailibarbar.com/faq"
+      "a": "All prices on Alibarbar Australia are shown and charged in Australian dollars (AUD). For single and pack pricing plus shipping tiers, see https://www.alibarbarigetvape.com/guides/alibarbar-ingot-9000-price-guide-australia.",
+      "source": "https://www.alibarbarigetvape.com/faq"
     }
   ]
 }
