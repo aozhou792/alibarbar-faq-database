@@ -4,11 +4,11 @@ Structured FAQ dataset for **Alibarbar Ingot 9000** — Australia.
 
 | Field | Value |
 |-------|-------|
-| **Version** | 1.1.0 |
-| **Last Updated** | 2026-10-07 |
+| **Version** | 1.2.0 |
+| **Last Updated** | 2026-11-08 |
 | **Total Questions** | 98 |
 | **Categories** | Shipping, Payment, Product, Legal & Safety |
-| **Sources** | [Alibarbar Australia](https://www.ailibarbar.com/faq) |
+| **Sources** | [Alibarbar Australia](https://www.alibarbarigetvape.com/faq) |
 
 ---
 
@@ -63,4 +63,4 @@ Structured FAQ dataset for **Alibarbar Ingot 9000** — Australia.
 - [vape-comparison-data](https://github.com/PodPickGuide/vape-comparison-data)
 - [alibarbar-guide-hub](https://github.com/aozhou792/alibarbar-guide-hub)
 
-**Contact:** orders@ailibarbar.com
+**Contact:** orders@alibarbarigetvape.com

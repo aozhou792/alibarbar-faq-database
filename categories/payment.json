@@ -1,7 +1,7 @@
 {
   "category": "Payment",
-  "version": "1.1.0",
-  "lastUpdated": "2026-10-07",
+  "version": "1.2.0",
+  "lastUpdated": "2026-11-08",
   "items": [
     {
       "q": "Payment methods?",
@@ -25,7 +25,7 @@
     },
     {
       "q": "Forgot order number reference?",
-      "a": "Email orders@ailibarbar.com with details."
+      "a": "Email orders@alibarbarigetvape.com with details."
     },
     {
       "q": "Wrong transfer amount?",
@@ -61,22 +61,22 @@
     },
     {
       "q": "Payment problems?",
-      "a": "orders@ailibarbar.com"
+      "a": "orders@alibarbarigetvape.com"
     },
     {
       "q": "How do I pay for my order?",
       "a": "We accept bank transfer. After placing your order you'll see our account details — transfer the total with your order number as the reference, then upload your payment screenshot to confirm.",
-      "source": "https://www.ailibarbar.com/faq"
+      "source": "https://www.alibarbarigetvape.com/faq"
     },
     {
       "q": "Is checkout secure?",
       "a": "Yes. Your order details are transmitted over an encrypted HTTPS connection, and we never store card numbers because payment is made by direct bank transfer using your own banking app.",
-      "source": "https://www.ailibarbar.com/faq"
+      "source": "https://www.alibarbarigetvape.com/faq"
     },
     {
       "q": "What currency are prices in?",
       "a": "All prices on Alibarbar Australia are shown and charged in Australian dollars (AUD). For single and pack pricing plus shipping tiers, see /guides/alibarbar-ingot-9000-price-guide-australia.",
-      "source": "https://www.ailibarbar.com/faq"
+      "source": "https://www.alibarbarigetvape.com/faq"
     }
   ]
 }
